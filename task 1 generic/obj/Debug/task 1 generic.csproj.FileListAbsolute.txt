@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\bin\Debug\task 1 generic.exe.config
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\bin\Debug\task 1 generic.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\bin\Debug\task 1 generic.pdb
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\obj\Debug\task 1 generic.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\obj\Debug\task 1 generic.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\obj\Debug\task 1 generic.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 1 generic\task 1 generic\obj\Debug\task 1 generic.pdb
